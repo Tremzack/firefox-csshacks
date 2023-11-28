@@ -16,9 +16,9 @@ toolobar .toolbarbutton-1 > .toolbarbutton-icon,
 toolbar .toolbarbutton-1 > .toolbarbutton-badge-stack > .toolbarbutton-icon,
 .menuitem-iconic .menu-iconic-icon,
 .urlbar-icon{
-  transform: scale(0.8) !important;
+  transform: scale(0.9) !important;
 }
-toolbarbutton#scrollbutton-down > .toolbarbutton-icon{ transform: scale(-0.8) !important; }
+toolbarbutton#scrollbutton-down > .toolbarbutton-icon{ transform: scale(-0.9) !important; }
 
 toolbar .toolbarbutton-1 > .toolbarbutton-icon{
   padding: calc(var(--toolbarbutton-inner-padding) + 2px) !important;
